@@ -92,7 +92,6 @@ _brainfuck_interpreter_rsi:
         push rdi
         push rsi
 
-        ; TODO
         xor rax, rax
         mov rdi, 1
         mov rsi, input_buffer
