@@ -81,7 +81,7 @@ void brainfuckInterpreter(char *programData) {
                 memoryPointer--;
 
                 if (memoryPointer < 0) {
-                    memoryPointer = 0;
+                    memoryPointer = 29999;
                 }
 
                 break;
