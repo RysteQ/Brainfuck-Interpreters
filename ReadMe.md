@@ -5,7 +5,6 @@ This repository contains brainfuck interpreters for the following languages
 - Assembly
 - C
 - Rust
-- Java
 - C#
 - Python
 
